@@ -2,7 +2,7 @@
   "name": "root",
   "version": "1.0.0",
   "description": "Minimalistic template for NextJS application in Lerna",
-  "repository": "https://github.com/softspider/lerna-hw",
+  "repository": "https://github.com/softspider/lerna-next",
   "author": "Alexander Lapygin",
   "license": "MIT",
   "scripts": {

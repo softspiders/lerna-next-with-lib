@@ -34,12 +34,33 @@ UNDER CONSTRUCTION
 Being at the root, execute
 
 ```
-lerna bootstrap
+npm run bootstrap
 ```
 
-## Run
+## Clean
 
-TBD
+```
+npm run clean
+```
+
+## Run in development mode
+
+```
+npm run dev
+```
+
+## Build
+
+```
+npm run build
+```
+
+## Run in production mode
+
+```
+npm run start
+```
+
 
 ---
 
