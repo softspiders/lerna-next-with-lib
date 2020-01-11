@@ -62,9 +62,4 @@ typings/
 
 *.lock
 
-lib
-
-lib-esm
-
-*.tsbuildinfo
 /.idea/
