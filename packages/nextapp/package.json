@@ -1,0 +1,16 @@
+{
+  "name": "nextapp",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "some-command": "echo some-command for nextapp"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "license": "ISC"
+}
