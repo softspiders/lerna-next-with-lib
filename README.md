@@ -13,9 +13,9 @@ UNDER CONSTRUCTION
 - lerna
 - next
 - nodejs
-- template
+- template  
 
-## Direct ancestors also by code
+## Direct ancestors - also by code
 
 - [Minimalistic template for Lerna monorepo](https://github.com/softspider/lerna)
 - [Minimalistic NextJS application](https://github.com/softspider/next.js)
