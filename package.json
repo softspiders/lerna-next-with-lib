@@ -1,12 +1,16 @@
 {
   "name": "root",
   "version": "1.0.0",
-  "description": "Minimal template for Lerna Monorepo",
+  "description": "Minimalistic template for NextJS application in [Lerna](https://lerna.js.org/)",
   "repository": "https://github.com/softspider/lerna-hw",
   "author": "Alexander Lapygin",
   "license": "MIT",
   "scripts": {
-    "some-command": "lerna run some-command"
+    "bootstrap": "lerna bootstrap",
+    "dev": "lerna run dev --stream",
+    "build": "lerna run build --stream",
+    "start": "lerna run start --stream",
+    "clean": "lerna clean"
   },
   "devDependencies": {
     "lerna": "^3.18.3"

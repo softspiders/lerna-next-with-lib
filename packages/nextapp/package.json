@@ -4,8 +4,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "some-command": "echo some-command for nextapp"
+    "start": "next start"
   },
   "dependencies": {
     "next": "latest",
