@@ -5,8 +5,6 @@ SOFTSPIDERS
 Minimalistic template for NextJS application in [Lerna](https://lerna.js.org/)
 
 ---
-UNDER CONSTRUCTION
----
 
 ## Feature tags
 

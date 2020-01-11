@@ -1,5 +1,3 @@
-export default () => (
-  <div>
-    Hello World!
-  </div>
-)
+import name from '@softspiders/lib/';
+
+export default () => `Hello, ${name}!`;
