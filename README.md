@@ -2,7 +2,7 @@ SOFTSPIDERS
 
 # lerna-next
 
-Minimalistic template for NextJS application in Lerna [Lerna](https://lerna.js.org/)
+Minimalistic template for NextJS application in [Lerna](https://lerna.js.org/)
 
 ---
 UNDER CONSTRUCTION
