@@ -18,7 +18,7 @@ UNDER CONSTRUCTION
 ## Direct ancestors
 
 - [Minimalistic template for Lerna monorepo](https://github.com/softspider/lerna)
-- [https://github.com/softspider/next.js](https://github.com/softspider/next.js)
+- [Minimalistic NextJS application](https://github.com/softspider/next.js)
 
 ---
 
