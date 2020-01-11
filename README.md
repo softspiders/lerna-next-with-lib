@@ -27,10 +27,21 @@ UNDER CONSTRUCTION
 - [*Node*](https://nodejs.org/en/download/package-manager/)
 - [*Lerna*](https://lerna.js.org/)
 
+---
+
+## Install
+
+Being at the root, execute
+
+```
+lerna bootstrap
+```
 
 ## Run
 
 TBD
+
+---
 
 ## Authors
 
