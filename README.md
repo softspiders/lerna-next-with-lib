@@ -24,8 +24,8 @@ UNDER CONSTRUCTION
 
 ## Requirements
 
-[*Node*](https://nodejs.org/en/download/package-manager/)
-[*Lerna*](https://lerna.js.org/)
+- [*Node*](https://nodejs.org/en/download/package-manager/)
+- [*Lerna*](https://lerna.js.org/)
 
 
 ## Run
