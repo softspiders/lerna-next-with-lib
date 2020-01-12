@@ -2,7 +2,7 @@ SOFTSPIDERS
 
 # lerna-next-with-lib
 
-Minimalistic template for NextJS application with library in [Lerna](https://lerna.js.org/) monorepo
+Minimalistic template of NextJS application with library in [Lerna](https://lerna.js.org/) monorepo
 
 ---
 
