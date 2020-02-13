@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # lerna-next-with-lib
 
@@ -11,6 +11,7 @@ Minimalistic template of NextJS application with library in [Lerna](https://lern
 - lerna
 - lib
 - next
+- starter
 - template  
 
 ## Direct ancestors - also by code
